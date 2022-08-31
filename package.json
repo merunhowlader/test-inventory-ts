@@ -1,4 +1,22 @@
 {
+
+  "name": "test-inventory-ts",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merunhowlader/test-inventory-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merunhowlader/test-inventory-ts/issues"
+  },
+  "homepage": "https://github.com/merunhowlader/test-inventory-ts#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "debug": "^4.3.4",
